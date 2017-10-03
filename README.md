@@ -1,14 +1,20 @@
 # Euler-Maruyama-MATLAB
 Euler-Maruyama function for Solving Stochastic Differential Equations using Numerical Integration of Ito integrals
 
-This a MATLAB function for solving stochastic differential equations using Euler-Maruyama integration
-   Initially written as part of structural reliability class of STG Ragukhanth, IIT Madras
-       Later reviced and uploaded to GitHub on 1st October 2017
+This a MATLAB function for solving stochastic differential equations using Euler-Maruyama integration.
+Initially written as part of structural reliability class of STG Ragukhanth, IIT Madras.
+       Later reviced and uploaded to GitHub on 1st October 2017.
+       
            by
+           
            Anis Mohammed Vengasseri
+           
            anis.mhd@gmail.com
+           
            https://github.com/anismhd
+           
  Description of Function
+ 
  Function inputs are,
    1. time - a vector stores time
    2. X0   - A vector that stores initial condition

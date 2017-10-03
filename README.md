@@ -20,7 +20,5 @@ Initially written as part of structural reliability class of STG Ragukhanth, IIT
    5. figure_on - >0 will display input and output figures
 
    stochastic differential equation of the form
-   \begin{equation}
-      dX = A(X_t) dt + G(X_t) dW
-   \end{equation}
+   $$   dX = A(X_t) dt + G(X_t) dW $$
 

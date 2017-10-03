@@ -22,3 +22,10 @@ Initially written as part of structural reliability class of STG Ragukhanth, IIT
    stochastic differential equation of the form
    $$   dX = A(X_t) dt + G(X_t) dW $$
 
+Example 1:
+
+Solution of SDoF subjected to white noise.
+
+Second moment of displacement are,
+
+![alt text](https://github.com/anismhd/Euler-Maruyama-MATLAB/example1.png)
